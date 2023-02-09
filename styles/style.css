@@ -90,14 +90,16 @@ li{
     font-size:1.5rem;
 }
 .section img{
-    width:200px;
+    width:20rem;
 }
 .center{
     display:block;
     text-align:center;
     font-size:2.75rem;
 }
-
+.proImage{
+    height: 12rem;
+}
 /* About */
 #about img{
     width:100%;
